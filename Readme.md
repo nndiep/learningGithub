@@ -16,4 +16,6 @@ git log
 #checks HEAD points to which branch
 git branch 
 #checks * tag to which branch
+git switch [branch-name]
+
 
