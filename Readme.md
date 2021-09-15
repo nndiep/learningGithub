@@ -13,3 +13,5 @@ git branch branch-name
 #switch and on new branch
 git switch branch-name
 #check by running git log command again
+
+#switch branch on github online and edit file Readme.md directly
