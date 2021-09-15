@@ -13,3 +13,5 @@ git branch branch-name
 #switch and on new branch
 git switch branch-name
 #check by running git log command again
+git switch -c branch-name
+#create and switch branch at same time.
